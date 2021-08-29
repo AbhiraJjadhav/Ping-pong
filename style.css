@@ -1,0 +1,22 @@
+
+.heading
+{
+width: 100%;
+text-align: center;
+}
+.heading button{
+    float: right;
+    width: 15%;
+    height: 50px;
+    font-size: 20px;
+}
+.Play,.Restart{
+width: 120px;
+height: 70px;
+font-size: x-large;
+}
+#canvas{
+border:10px white;
+border-radius: 10px;
+box-shadow: 3px 3px 10px white;
+}
